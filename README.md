@@ -1,4 +1,4 @@
-# -15-IWL-2019-xiaoxin-EFI
+# 小新15-IWL-2019-xiaoxin-EFI
 i5-8265u uhd620 mx250款
 i5-8265u
 uhd620
